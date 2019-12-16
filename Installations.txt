@@ -1,0 +1,13 @@
+*******Uninstalled*************
+npm install tipsi-stripe
+
+
+
+
+*************USED**********:
+npm i --save react-native-credit-card-input
+npm i react-native-elements --save
+npm install react-native-chart-kit --save
+npm install react-native-svg
+react-native link react-native-svg
+npm install --save react-native-progress-circle

@@ -1,0 +1,14 @@
+first and last name:
+sohaib 76
+organizational unit:
+s76
+organization:
+s76
+city:
+usa
+State:
+abc
+Two letter country code:
+92
+Password:
+123456
